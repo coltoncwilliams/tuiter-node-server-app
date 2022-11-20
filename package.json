@@ -3,7 +3,7 @@
   "name": "tuiter-node-server-app",
   "version": "1.0.0",
   "description": "server component for tuiter app",
-  "main": "node index.js",
+  "main": "node app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
