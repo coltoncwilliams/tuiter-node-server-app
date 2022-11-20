@@ -11,6 +11,7 @@ const createTuit = (req, res) => {
   newTuit.image = 'nasa.png'
   tuits.push(newTuit);
   res.json(newTuit);
+  
 }
 
 const findTuits = (req, res) => res.json(tuits);
